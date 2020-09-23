@@ -7,7 +7,7 @@ Here is the flow diagram of the ASA-GS. This implementation is following this di
 ![20200923095423](https://user-images.githubusercontent.com/7517810/94022155-cb809980-fd82-11ea-8bce-591983259047.png)
 
 # How to use it
-Program will receive two argument: path, OPT  
+ASAGS.java will receive two argument: path, OPT  
 "path" is the path of data file  
 "OPT" is the appproximate optimal distance  
 You may found some useful information from here [[link]](http://www.math.uwaterloo.ca/tsp/world/countries.html)  
