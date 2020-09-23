@@ -9,7 +9,7 @@ Here is the flow diagram of the ASA-GS. This implementation is following this di
 # How to use it
 Program will receive two argument: path, OPT  
 "path" is the path of data file  
-"OPT" is the appproximate optimal length  
+"OPT" is the appproximate optimal distance  
 You may found some useful information from here [[link]](http://www.math.uwaterloo.ca/tsp/world/countries.html)  
 
 ## References
