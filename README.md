@@ -10,7 +10,13 @@ Here is the flow diagram of the ASA-GS. This implementation is following this di
 ASAGS.java will receive two arguments: path, OPT  
 "path" is the path of data file  
 "OPT" is the appproximate optimal distance  
+
+There are two parameters in the program you might want use to tune, they can change the accuracy and converge speed of the algorithm  
+"alpha": higher alpha, lower cool speed  
+"beta": higher beta, more times of greedy search  
+
 You may found some useful information [from here](http://www.math.uwaterloo.ca/tsp/world/countries.html)  
+
 
 ## References
 1.  **Solving the traveling salesman problem based on an adaptive simulated annealing algorithm with greedy search**<br />
