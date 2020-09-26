@@ -11,7 +11,7 @@ ASAGS.java will receive two arguments: path, OPT
 "path" is the path of data file  
 "OPT" is the appproximate optimal distance  
 
-There are two parameters in the program you might want use to tune, they can change the accuracy and converge speed of the algorithm  
+There are two parameters in the program you might want to tune, they can change the accuracy and converge speed of the algorithm  
 "alpha": higher alpha, lower cool speed  
 "beta": higher beta, more times of greedy search  
 
