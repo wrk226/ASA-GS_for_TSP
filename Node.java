@@ -1,5 +1,5 @@
 /*
- * Node2.java
+ * Node.java
  *
  * Version:
  *     1.00
