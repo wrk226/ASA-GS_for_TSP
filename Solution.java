@@ -1,5 +1,5 @@
 /*
- * Solution2.java
+ * Solution.java
  *
  * Version:
  *     1.00
