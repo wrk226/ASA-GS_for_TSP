@@ -1,5 +1,5 @@
 /*
- * ASAGS2.java
+ * ASAGS.java
  *
  * Version:
  *     1.00
