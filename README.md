@@ -1,5 +1,5 @@
 # ASA-GS
-It is the implementation of paper [1]. ASA-GS is the initial of adaptive simulated annealing algorithm with greedy search.
+It is the implementation of paper [1]. ASA-GS is the initial of adaptive simulated annealing algorithm with greedy search. This algorithm was created to solve TSP (travelling salesman problem).
 
 # Introduction
 This algorithm is based on the simulated annealing algorithm and will perform greedy search in mutation process to speed up the convergence rate.  
